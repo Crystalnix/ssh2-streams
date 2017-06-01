@@ -1,4 +1,4 @@
-{ "name": "ssh2-streams",
+{ "name": "ssh2-streams-chrome-app",
   "version": "0.1.18",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "SSH2 and SFTP(v3) client/server protocol streams for node.js",
